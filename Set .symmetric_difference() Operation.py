@@ -1,0 +1,6 @@
+n = int(input())
+e = set(map(int, input().split()))
+n = int(input())
+f = set(map(int, input().split()))
+k=e.symmetric_difference(f)
+print(len(k))
