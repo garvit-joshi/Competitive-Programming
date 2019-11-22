@@ -20,15 +20,17 @@ Engineering From Lovely Professional
 University and I like to do comptetive 
 programming . So, I Hosted This Website To 
 share My Knowledge on Comptetive 
-Programming. If You Like It, Please Do Share
-It. 
-        --Garit Joshi(Author)
+Programming. Please Do Visit My [Github_Profile]
+(https://github.com/garvit-joshi) for more 
+repositories such as code_chef Answers.
+                           --Garit Joshi(Author)
 ```
 
+
 ## Notes:
-1. You Can See My Profile as [garvitjoshi9](https://www.hackerrank.com/garvitjoshi9) On [Hacker_Rank](https://www.hackerrank.com/)
-2. The Python Codes i have used in this Repository are well Idented, and are built using python 3+ Interprter.
-3. C++ Codes are made Through Latest g++ 8.2.0, C++14 standard Compiler.
+1. The Python Codes i have used in this Repository are well Idented, and are built using python 3+ Interprter.
+2. C++ Codes are made Through Latest g++ 8.2.0, C++14 standard Compiler.
+3. You Can See My Profile as [garvitjoshi9](https://www.hackerrank.com/garvitjoshi9) On [Hacker_Rank](https://www.hackerrank.com/)
 
 
 ## Important Links:
