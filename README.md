@@ -14,11 +14,12 @@
 
 ```markdown
 Hello Everyone !! My Name is Garvit Joshi, 
-and I am Currently Persuing Computer Science Engineering 
-From Lovely Professional University
-and I like to do comptetive programming . 
-So, I Hosted This Website To share My Knowledge on 
-Comptetive Programming.
+and I am Currently Persuing Computer Science 
+Engineering From Lovely Professional 
+University and I like to do comptetive 
+programming . So, I Hosted This Website To 
+share My Knowledge on Comptetive 
+Programming.
 ```
 
 ## Notes:
