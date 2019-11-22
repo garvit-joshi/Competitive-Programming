@@ -1,14 +1,13 @@
 # Welcome to Hacker_Rank_Answers
 
-`
-#include<bits/stdc++.h>
-usning namespace std;
-int main()
-{
-cout<<"Hello World";
-return 0;
-}
-`
+    #include<bits/stdc++.h>
+    usning namespace std;
+    int main()
+    {
+        cout<<"Hello World";
+        return 0;
+    }
+
 [Link](url) and ![Hello](Markdown/Git.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
