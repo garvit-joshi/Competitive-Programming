@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Hello](HackerRank/Markdown/Git.png)
 ```
-[Link](url) and ![Hello](HackerRank/Markdown/Git.png)
+[Link](url) and ![Hello](Markdown/Git.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
