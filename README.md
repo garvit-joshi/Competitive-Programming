@@ -24,7 +24,7 @@ share My Knowledge on Comptetive
 Programming. Please Do Visit My [Github_Profile]
 (https://github.com/garvit-joshi) for more 
 repositories such as code_chef Answers.
-                           --Garit Joshi(Author)
+                           --Garvit Joshi(Author)
 ```
 To Newbees I would Like you too First try C++ 
 as there primary Language and after you have an 
