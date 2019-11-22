@@ -13,6 +13,7 @@
     }
 
 
+
 ```markdown
 Hello Everyone !! My Name is Garvit Joshi, 
 and I am Currently Persuing Computer Science 
@@ -25,7 +26,13 @@ Programming. Please Do Visit My [Github_Profile]
 repositories such as code_chef Answers.
                            --Garit Joshi(Author)
 ```
-
+To Newbees I would Like you too First try C++ 
+as there primary Language and after you have an 
+idea about all the algorithm, you may switch 
+to other languages, but I would recommend you to
+use c++ as your only language in competitive 
+programming as it has less runtime then other
+languages.
 
 ## Notes:
 1. The Python Codes i have used in this Repository are well Idented, and are built using python 3+ Interprter.
