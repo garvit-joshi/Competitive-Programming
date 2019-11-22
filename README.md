@@ -7,7 +7,8 @@
         char name[20]
         cout<<"Enter Your Name";
         cin.getline(name);
-        cout<<"Hello !!"<<name<<"Welcome To My Haker_Rank Reository";
+        cout<<"Hello !!"<<name;
+        cout<<"Welcome To My Haker_Rank Reository";
         return 0;
     }
 
@@ -19,7 +20,9 @@ Engineering From Lovely Professional
 University and I like to do comptetive 
 programming . So, I Hosted This Website To 
 share My Knowledge on Comptetive 
-Programming.
+Programming. If You Like It, Please Do Share
+It. 
+        --Garit Joshi(Author)
 ```
 
 ## Notes:
