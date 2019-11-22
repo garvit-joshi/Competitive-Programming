@@ -1,6 +1,5 @@
 # Welcome to Hacker_Rank_Answers
 
-```markdown
 `
 #include<bits/stdc++.h>
 usning namespace std;
@@ -10,7 +9,6 @@ cout<<"Hello World";
 return 0;
 }
 `
-```
 [Link](url) and ![Hello](Markdown/Git.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
