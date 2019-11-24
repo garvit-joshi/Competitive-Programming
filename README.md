@@ -1,7 +1,7 @@
 # Welcome to Hacker_Rank_Answers
 
     #include<bits/stdc++.h>
-    usning namespace std;
+    using namespace std;
     int main()
     {
         char name[20]
