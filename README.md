@@ -36,7 +36,7 @@ languages.
 
 ## Notes:
 1. The Python Codes i have used in this Repository are well Idented, and are built using python 3+ Interprter.
-2. C++ Codes are made Through Latest g++ 8.2.0, C++14 standard Compiler.
+2. C++ Codes are made through g++ 8.2.0, C++14 standard Compiler.
 3. You Can See My Profile as [garvitjoshi9](https://www.hackerrank.com/garvitjoshi9) On [Hacker_Rank](https://www.hackerrank.com/)
 
 
