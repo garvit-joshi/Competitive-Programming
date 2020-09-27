@@ -8,8 +8,14 @@ string rtrim(const string &);
 vector<string> split(const string &);
 
 // Complete the bonAppetit function below.
-void bonAppetit(vector<int> bill, int k, int b) {
-
+void bonAppetit(vector<int> bill, int k, int b) 
+{
+    long long int sum=accumulate(bill.begin(),bill.end(),0);
+    sum=(sum-bill[k])/2;
+    if(sum==b)
+     cout<<"Bon Appetit";
+    else
+     cout<<(b-sum);
 
 }
 
