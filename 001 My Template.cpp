@@ -10,7 +10,6 @@ using namespace std;
 
 #define ll long long
 #define vpb(v,n) for(int i=0;i<n;i++){int a;cin>>a;v.push_back(a);}
-#define vshow(v,it) for (it = v1.begin(); it != v1.end(); it++)cout << *it << " ";
 
 void solve() {
     vector <int> v1;
