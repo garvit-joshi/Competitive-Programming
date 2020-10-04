@@ -1,0 +1,8 @@
+# Below Three Lines will ignore Extensionless files
+*
+!/**/
+!*.*
+
+*.vscode
+*.out
+in
