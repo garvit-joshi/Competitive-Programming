@@ -18,7 +18,7 @@ typedef pair<int,int> pi;
 #define REP(i,a,b) for (int i = a; i <= b; i++)
 
 void solve() {
-
+    
 }
 
 
@@ -34,7 +34,7 @@ int main() {
 
     int tc;
     cin >> tc;
-    for (int t = 1; t <= tc; t++) {
+    while(abs(tc--)) {
         solve();
     }
     return 0;
